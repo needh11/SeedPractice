@@ -1,3 +1,4 @@
 Departments..
 Enroll
 Profile
+Assignments
